@@ -11,6 +11,8 @@ Next, open the following URL in your browser:
 
 http://127.0.0.1:8000/dashboard/
 
+Select the file via "Connect" in the upper left corner. Charts can be chosen from the "Charts".
+
 Enjoy!
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -23,5 +25,7 @@ python manage.py runserver
 Em seguida, abra o seguinte URL em seu navegador:
 
 http://127.0.0.1:8000/dashboard/
+
+Selecione o arquivo através do "Connect" no canto superior esquerdo. Os gráficos podem ser escolhidos a partir do "Charts".
 
 Aproveite!
